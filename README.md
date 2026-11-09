@@ -2,7 +2,7 @@
 
 **Computer Science | Artificial Intelligence | Machine Learning**
 
-I am a Computer Science graduate with a background in Artificial Intelligence, interested in software development, data analysis and machine learning.
+I am a HND Computer Science with AI student at NIBM Kandy Innovation Centre with a background in Artificial Intelligence, interested in software development, data analysis and machine learning.
 
 I enjoy working with real-world datasets, developing machine learning models and building practical technology solutions. I use GitHub to document my projects, share my work and continuously develop my technical skills.
 
