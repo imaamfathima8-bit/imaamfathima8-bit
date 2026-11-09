@@ -1,36 +1,22 @@
-# Fathima Imam
+# Hi, I'm Fathima Imam 👋
 
-**Computer Science | Artificial Intelligence | Machine Learning**
+HND Computer Science with AI student at NIBM Kandy Innovation Centre, building machine learning, data analysis and IoT projects. I'm looking for an internship where I can apply Python and ML to real problems.
 
-I am a HND Computer Science with AI student at NIBM Kandy Innovation Centre with a background in Artificial Intelligence, interested in software development, data analysis and machine learning.
+## What I work with
+- **Languages:** Python, Java, JavaScript
+- **Data & ML:** Pandas, NumPy, Scikit-learn, K-Means, Linear Regression, PCA
+- **Visualisation:** Matplotlib, Seaborn
+- **Apps & tools:** Streamlit, OpenCV, MediaPipe, Node.js, SQLite, Git
+- **Hardware:** ESP32, sensors, IoT
 
-I enjoy working with real-world datasets, developing machine learning models and building practical technology solutions. I use GitHub to document my projects, share my work and continuously develop my technical skills.
+## Featured projects
+| Project | What it does | Stack |
+|---|---|---|
+| [Golden Retail – Customer Segmentation](https://github.com/imaamfathima8-bit/Golden-retail-customer-segmentation) | Groups customers with K-Means so marketing can target each segment. [ONE RESULT, e.g. "Found 4 segments from N customers"] | Python, Scikit-learn, Pandas |
+| [Tracking the Rupee](https://github.com/imaamfathima8-bit/Tracking-the-Rupee) | Analyses Sri Lanka's exchange rates from 2007 to 2026 and models the trends. [ONE FINDING] | Python, Pandas, Matplotlib |
+| [Palm Reading App](https://github.com/imaamfathima8-bit/palm-reading-app) | Computer-vision pipeline that validates palm photos, traces lines, and answers questions through a grounded chatbot. | Python, OpenCV, MediaPipe, Streamlit |
+| [IruBasha Learning Platform](https://github.com/imaamfathima8-bit/irubasha-bilingual-learning-platform) | Sinhala–Tamil vocabulary platform for children with quizzes and pronunciation practice. Group project, I built [YOUR PART]. | Node.js, Express, SQLite, Prolog |
+| [Hospital Health Monitoring Robot](https://github.com/imaamfathima8-bit/hospital-health-monitoring-robot) | ESP32 robot that automates patient monitoring in a hospital ward. | ESP32, IoT, Robotics |
 
-## Technical Skills
-
-- **Programming Languages:** Python, Java
-- **Data Analysis:** Pandas, NumPy
-- **Data Visualisation:** Matplotlib, Seaborn
-- **Machine Learning:** Scikit-learn, K-Means Clustering, Linear Regression, PCA
-- **Other Areas:** Data Preprocessing, Exploratory Data Analysis, Statistical Analysis
-
-## Featured Projects
-
-### Golden Retail – Customer Segmentation
-
-A machine learning project focused on customer segmentation using K-Means clustering to support data-driven marketing decisions.
-
-[Live Application](https://mlcw2.onrender.com)
-
-### Tracking the Rupee – Sri Lankan Currency Analysis
-
-A data analysis and machine learning project examining Sri Lanka's historical unofficial exchange rates from 2007 to 2026.
-
-## Areas of Interest
-
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Data Analytics
-- Software Development
-
+## Get in touch
+📧 imaamfathima8@gmail.com  💼 www.linkedin.com/in/fathima-imam-84693b3a7  📍 Kandy, Sri Lanka
